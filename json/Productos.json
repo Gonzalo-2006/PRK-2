@@ -1,0 +1,44 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Gorro Básico",
+            "descripcion": "Gorro de lana suave color negro",
+            "precio": 29.990,
+            "imagen": "gorro1.jpg",
+            "categoria": "gorros"
+        },
+        {
+            "id": 2,
+            "nombre": "Gorro Invierno",
+            "descripcion": "Gorro térmico para frío extremo", 
+            "precio": 39.990,
+            "imagen": "gorro2.jpg",
+            "categoria": "gorros"
+        },
+        {
+            "id": 3,
+            "nombre": "Gorro Deportivo",
+            "descripcion": "Gorro ligero para running",
+            "precio": 24.990,
+            "imagen": "gorro3.jpg",
+            "categoria": "gorros"
+        },
+        {
+            "id": 4,
+            "nombre": "Bufanda Larga",
+            "descripcion": "Bufanda de lana extra larga",
+            "precio": 34.990,
+            "imagen": "bufanda1.jpg",
+            "categoria": "bufandas"
+        },
+        {
+            "id": 5,
+            "nombre": "Gorro deportivo",
+            "descripcion": "Breve descripcion del producto",
+            "precio": 40.000,
+            "imagen": "bufanda1.jpg",
+            "categoria": "bufandas"
+        }
+    ]
+}
